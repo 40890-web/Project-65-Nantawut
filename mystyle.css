@@ -16,7 +16,7 @@ body {
     margin: 0 auto;
     border-style: dashed;
     border-width: 0px 5px 5px 5px;
-    border-color: #565fc8 #565fc8 #565fc8 #565fc8;
+    border-color: #fedfc6 #82dbfe #fdc2cb #82dbfe;
 }
 header {
     background-image: url("images/header.png");
@@ -30,26 +30,26 @@ section {
 }
 
 nav {
-    background-color: green;
+    background-color: #82dbfe;
     width: 30%;
 }
 
 article {
-    background-color: white;
+    background-color: #fdc2cb;
     width: 70%;
     padding: 10px;
 }
 
 footer {
-    background-color: pink;
+    background-color: #69f4d1;
     text-align: center;
     padding: 25px;
 }
 
 a:link {
-    color: black;
+    color: white;
     text-decoration: none;
-    background-color: #EBAC38;
+    background-color: #fedfc6;
     display: block;
     width: 100%;
     padding: 10px;
@@ -60,7 +60,7 @@ a:visited {
 }
 
 a:hover {
-    color: redx;
+    color: red;
     background-color: #92F58C;
 }
 
